@@ -1,11 +1,11 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: March 4 - 5, 2021
+- Facilitator: @selkins13
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention @TEACHER-HANDLE**.
+If you have a question, or need assistance during class, **please create an issue and mention @selkins13**.
 
 ## Give Us Feedback
 
